@@ -1,24 +1,39 @@
-# 👋 Hey there! I'm Hackatoan!
+# Jacob P Harris · Hackatoa
 
-Welcome to my GitHub profile! I'm passionate about developing secure, scalable applications and experimenting with cutting-edge technology. Whether it's building full-stack web apps, managing containers, or diving deep into networking and security, I'm always up for a challenge.
+Self-hosting homelabber, Linux-first developer, and occasional mycologist.
+I build browser games, homelab automation, and Matrix/Discord bots — all running on my own hardware.
 
-## 🚀 What I’m Working On
-- 🛡️ **Security Manager**: Managing and protecting sensitive customer data.
-- 🤖 **Discord Bots**: Crafting unique experiences using AI and automation.
-- 🎮 **Game Servers**: Running game servers for public and private use.
-- 📦 **Containerization & Virtualization**: Managing Docker containers and VMs using Proxmox, Portainer, and Nginx Proxy.
-- 🎓 **Ongoing Learning**: Constantly exploring new technologies and improving my coding skills.
+---
 
-## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, Bash
-- **Tools**: Docker, Proxmox, Portainer, Wireguard, Nginx Proxy Manager, Cloudflare
-- **Domains**: cloud.domain, npm.domain, portainer.domain
-- **Cloud & Networking**: Cloudflare, LAN/WAN security, SSL certificates, networking setup
+## What I'm working on
 
-## 🌱 Current Projects
-- 🎧 **MP3 Player App**: Building a GUI-based audio player with device selection and volume control.
-- 📑 **Information Security**: Designing secure network architectures and centralized logging systems.
-- 📚 **Research**: Exploring digital divides and ethical debates in technology and gaming.
+| Project | Stack | Description |
+|---|---|---|
+| [infinisweeper](https://github.com/Hackatoan/infinisweeper) | JS · Firebase | Infinite multiplayer minesweeper — global shared board |
+| [1v1-minesweeper](https://github.com/Hackatoan/1v1-minesweeper) | Next.js · PostgreSQL | Competitive 1v1 minesweeper with realtime play |
+| [tic-tac-toe-online](https://github.com/Hackatoan/tic-tac-toe-online) | Node.js · Socket.io | Classic 3×3 played live against a friend |
+| [games-hub](https://github.com/Hackatoan/games-hub) | HTML · nginx | Landing page for all my games — [games.hackatoa.com](https://games.hackatoa.com) |
+| [matrix-autoroom](https://github.com/Hackatoan/matrix-autoroom) | Python · matrix-nio | Bot that auto-creates/removes voice rooms on my Matrix server |
+| [matrix-cms-bot](https://github.com/Hackatoan/matrix-cms-bot) | Python · matrix-nio | DM a bot to publish blog posts and mushroom photos to my site |
+| [terryvis](https://github.com/Hackatoan/terryvis) | Node.js · LiveKit · Whisper | Voice AI bot that listens in Matrix/Discord calls and transcribes |
+| [hackatoa.com](https://github.com/Hackatoan/hackatoa.com) | HTML · Firebase | Personal portfolio, blog, and mycology tracker |
 
-## 📫 How to Reach Me
-- Feel free to check out my projects, collaborate, or just chat about tech!
+---
+
+## Stack
+
+**Languages** — Python, JavaScript/TypeScript, Bash  
+**Infra** — Docker, Proxmox, NPM (nginx), Cloudflare, Pi-hole  
+**Homelab** — Synapse (Matrix), Jitsi, LiveKit, PostgreSQL, Portainer  
+**Games** — Firebase/Firestore, Next.js, Socket.io, Node.js
+
+---
+
+## Find me
+
+[![Website](https://img.shields.io/badge/hackatoa.com-3e2e28?style=flat&logo=firefox&logoColor=f472b6)](https://hackatoa.com)
+[![Games](https://img.shields.io/badge/games.hackatoa.com-3e2e28?style=flat&logo=gamepad&logoColor=f472b6)](https://games.hackatoa.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Hackatoa)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white)](https://www.twitch.tv/hackatoa)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jhackatoa)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/hackatoa)
