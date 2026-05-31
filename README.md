@@ -1,26 +1,45 @@
 # Jacob P Harris · Hackatoa
 
-Self-hosting homelabber, Linux-first developer, and occasional mycologist.
-I build browser games, homelab automation, and Matrix/Discord bots — all running on my own hardware.
+Self-hosting homelabber, Linux-first developer, and cybersecurity student at UAT.
+I build browser games, homelab automation, Matrix/Discord bots — all running on my own hardware.
 
 **Website:** [hackatoa.com](https://hackatoa.com) · **Support:** [Buy Me A Coffee](https://buymeacoffee.com/hackatoa)
 
 ---
 
-## What I'm working on
+## 🎮 Browser Games
+
+Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted on Docker.
 
 | Project | Stack | Description |
 |---|---|---|
-| [infinisweeper](https://github.com/Hackatoan/infinisweeper) | JS | Infinite minesweeper with global leaderboard |
-| [1v1-minesweeper](https://github.com/Hackatoan/1v1-minesweeper) | Next.js | Real-time competitive minesweeper |
-| [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension | Discord-style messaging for Canvas LMS |
-| [terryvis](https://github.com/Hackatoan/terryvis) | Node + Python | Discord voice bot with live audio streaming and transcription |
-| [matrix-autoroom](https://github.com/Hackatoan/matrix-autoroom) | Python | AutoRoom bot for Matrix (Discord-style temp rooms) |
-| [matrix-cms-bot](https://github.com/Hackatoan/matrix-cms-bot) | Python | Matrix bot for publishing blog posts and mycology photos |
+| [infinisweeper](https://github.com/Hackatoan/infinisweeper) | JS · Firebase | Infinite minesweeper with a global leaderboard |
+| [1v1-minesweeper](https://github.com/Hackatoan/1v1-minesweeper) | Next.js · Docker | Real-time competitive minesweeper |
+| [sys32roulette](https://github.com/Hackatoan/sys32roulette) | JS · Docker | Competitive 1v1 minigame battler — lose and face system annihilation (jk) |
+| [battleship](https://github.com/Hackatoan/battleship) | JS · Docker | Multiplayer Battleship with AI opponent |
+| [tic-tac-toe-online](https://github.com/Hackatoan/tic-tac-toe-online) | JS · Docker | Real-time online tic-tac-toe |
+| [cah](https://github.com/Hackatoan/cah) | Node.js · Socket.io | Cards Against Hackatoa — multiplayer browser card game |
 
-## Homelab
+## 🌐 Web & Extensions
+
+| Project | Stack | Description |
+|---|---|---|
+| [hackatoa.com](https://github.com/Hackatoan/hackatoa.com) | HTML · Firebase | Personal portfolio and website |
+| [games-hub](https://github.com/Hackatoan/games-hub) | HTML · Docker | Landing page hub linking all hosted games |
+| [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension | E2E encrypted Discord-style messaging for Canvas LMS — DMs, group chats, class channels |
+
+## 🤖 Bots
+
+| Project | Stack | Description |
+|---|---|---|
+| [matrix-cms-bot](https://github.com/Hackatoan/matrix-cms-bot) | Python | Matrix bot for publishing blog posts and mycology photos via DM |
+| [matrix-autoroom](https://github.com/Hackatoan/matrix-autoroom) | Python | AutoRoom bot for Matrix — creates temp rooms on demand, removes them when empty |
+| [Lamar](https://github.com/Hackatoan/Lamar) | JS | Discord bot |
+
+## 🏠 Homelab
 
 Running on bare metal + Proxmox:
+
 - **Docker host** — Portainer, NPMplus, Stalwart mail, Nextcloud + Talk
 - **DNS** — Pi-hole
 - **Matrix** — self-hosted Synapse homeserver at `matrix.hackatoa.com`
@@ -28,7 +47,4 @@ Running on bare metal + Proxmox:
 
 ## Find me
 
-- [hackatoa.com](https://hackatoa.com)
-- [Twitch](https://www.twitch.tv/hackatoa)
-- [YouTube](https://www.youtube.com/@Hackatoa)
-- [Buy Me A Coffee](https://buymeacoffee.com/hackatoa)
+[hackatoa.com](https://hackatoa.com) · [Twitch](https://www.twitch.tv/hackatoa) · [YouTube](https://www.youtube.com/@Hackatoa) · [Buy Me A Coffee](https://buymeacoffee.com/hackatoa)
