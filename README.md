@@ -28,13 +28,14 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 | [games-hub](https://github.com/Hackatoan/games-hub) | HTML · Docker | Landing page hub linking all hosted games |
 | [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension | E2E encrypted Discord-style messaging for Canvas LMS — DMs, group chats, class channels |
 
-## 🤖 Bots
+## 🤖 Bots & AI
 
 | Project | Stack | Description |
 |---|---|---|
+| [wikiroll](https://github.com/Hackatoan/wikiroll) | discord.js · SQLite · Docker | Discord character collection bot — roll, claim, and trade characters from Wikipedia and 150+ Fandom wikis · [wikiroll.hackatoa.com](https://wikiroll.hackatoa.com) |
+| [Lamar](https://github.com/Hackatoan/Lamar) | discord.js · Gemini AI · Docker | Discord bot — Lamar Davis from GTA V, AI-powered with persistent memory · [lamar.hackatoa.com](https://lamar.hackatoa.com) |
 | [matrix-cms-bot](https://github.com/Hackatoan/matrix-cms-bot) | Python | Matrix bot for publishing blog posts and mycology photos via DM |
 | [matrix-autoroom](https://github.com/Hackatoan/matrix-autoroom) | Python | AutoRoom bot for Matrix — creates temp rooms on demand, removes them when empty |
-| [Lamar](https://github.com/Hackatoan/Lamar) | JS | Discord bot |
 
 ## 🏠 Homelab
 
