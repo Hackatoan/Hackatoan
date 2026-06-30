@@ -1,4 +1,4 @@
-# Jacob P Harris · Hackatoa
+# Preston Harris · Hackatoa
 
 Self-hosting homelabber, Linux-first developer, and cybersecurity student at UAT.
 I build browser games, homelab automation, Matrix/Discord bots — all running on my own hardware.
