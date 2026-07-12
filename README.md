@@ -1,11 +1,24 @@
 # Preston Harris · Hackatoa
 
 Self-hosting homelabber, Linux-first developer, and cybersecurity student at UAT.
-I build browser games, homelab automation, Matrix/Discord bots — all running on my own hardware.
+I build full-stack web apps, browser games, homelab automation, and Matrix/Discord bots — all running on my own hardware.
 
 **Website:** [hackatoa.com](https://hackatoa.com) · **Support:** [Buy Me A Coffee](https://buymeacoffee.com/hackatoa)
 
 ---
+
+## 📱 Apps
+
+| Project | Stack | Description |
+|---|---|---|
+| **P&N — Protons & Neutrons** | TypeScript · Fastify · Postgres/PostGIS · Capacitor · Stripe | Dating app for verified humans — Stripe Identity ID checks, PostGIS location matching, real-time chat with read receipts & media messages, bot/AI-photo defense, push notifications, and native mobile builds · [nucleus.hackatoa.com](https://nucleus.hackatoa.com) |
+
+## 🛠️ Tools
+
+| Project | Stack | Description |
+|---|---|---|
+| [clip-forge](https://github.com/Hackatoan/clip-forge) | React · Vite · WebCodecs · Docker | Browser video editor — trim, cut, overlay, all processed locally with no uploads · [clip-forge.hackatoa.com](https://clip-forge.hackatoa.com) |
+| Lamar Live | Node · Claude Code · Docker | `/build` in Discord → AI-generated public web pages, auto-deployed · [lamarlive.hackatoa.com](https://lamarlive.hackatoa.com) |
 
 ## 🎮 Browser Games
 
@@ -24,9 +37,9 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 
 | Project | Stack | Description |
 |---|---|---|
-| [hackatoa.com](https://github.com/Hackatoan/hackatoa.com) | HTML · Firebase | Personal portfolio and website |
+| [hackatoa.com](https://github.com/Hackatoan/hackatoa.com) | HTML · Three.js · Firebase | Personal portfolio and website |
 | [games-hub](https://github.com/Hackatoan/games-hub) | HTML · Docker | Landing page hub linking all hosted games |
-| [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension | E2E encrypted Discord-style messaging for Canvas LMS — DMs, group chats, class channels |
+| [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension · WebRTC | Discord-style messaging for Canvas LMS — DMs, group chats, class channels |
 
 ## 🤖 Bots & AI
 
@@ -34,17 +47,19 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 |---|---|---|
 | [wikiroll](https://github.com/Hackatoan/wikiroll) | discord.js · SQLite · Docker | Discord character collection bot — roll, claim, and trade characters from Wikipedia and 150+ Fandom wikis · [wikiroll.hackatoa.com](https://wikiroll.hackatoa.com) |
 | [Lamar](https://github.com/Hackatoan/Lamar) | discord.js · Gemini AI · Docker | Discord bot — Lamar Davis from GTA V, AI-powered with persistent memory · [lamar.hackatoa.com](https://lamar.hackatoa.com) |
+| [balthazar](https://github.com/Hackatoan/balthazar) | Node · Whisper · WebRTC | Discord voice bot — streams audio to the browser, transcribes speech with Whisper, and captures 30-second clips on command or voice trigger |
 | [matrix-cms-bot](https://github.com/Hackatoan/matrix-cms-bot) | Python | Matrix bot for publishing blog posts and mycology photos via DM |
 | [matrix-autoroom](https://github.com/Hackatoan/matrix-autoroom) | Python | AutoRoom bot for Matrix — creates temp rooms on demand, removes them when empty |
 
 ## 🏠 Homelab
 
-Running on bare metal + Proxmox:
+Running on bare metal + Proxmox — 20+ self-hosted services:
 
-- **Docker host** — Portainer, NPMplus, Stalwart mail, Nextcloud + Talk
+- **Docker host** — Portainer, NPMplus reverse proxy, Stalwart mail, Nextcloud + Talk, Watchtower auto-deploy
+- **Home Assistant** — self-hosted voice assistant (Whisper STT + Piper TTS + openWakeWord)
 - **DNS** — Pi-hole
 - **Matrix** — self-hosted Synapse homeserver at `matrix.hackatoa.com`
-- **Games** — self-hosted at `games.hackatoa.com`
+- **Games & apps** — self-hosted at `games.hackatoa.com` and `nucleus.hackatoa.com`
 
 ## Find me
 
