@@ -18,7 +18,6 @@ I build full-stack web apps, browser games, homelab automation, and Matrix/Disco
 | Project | Stack | Description |
 |---|---|---|
 | [clip-forge](https://github.com/Hackatoan/clip-forge) | React · Vite · WebCodecs · Docker | Browser video editor — trim, cut, overlay, all processed locally with no uploads · [clip-forge.hackatoa.com](https://clip-forge.hackatoa.com) |
-| Lamar Live | Node · Claude Code · Docker | `/build` in Discord → AI-generated public web pages, auto-deployed · [lamarlive.hackatoa.com](https://lamarlive.hackatoa.com) |
 
 ## 🎮 Browser Games
 
