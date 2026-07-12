@@ -55,7 +55,6 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 Running on bare metal + Proxmox — 20+ self-hosted services:
 
 - **Docker host** — Portainer, NPMplus reverse proxy, Stalwart mail, Nextcloud + Talk, Watchtower auto-deploy
-- **Home Assistant** — self-hosted voice assistant (Whisper STT + Piper TTS + openWakeWord)
 - **DNS** — Pi-hole
 - **Matrix** — self-hosted Synapse homeserver at `matrix.hackatoa.com`
 - **Games & apps** — self-hosted at `games.hackatoa.com` and `nucleus.hackatoa.com`
