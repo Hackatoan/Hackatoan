@@ -25,12 +25,12 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 
 | Project | Stack | Description |
 |---|---|---|
-| [infinisweeper](https://github.com/Hackatoan/infinisweeper) | JS · Firebase | Infinite minesweeper with a global leaderboard |
-| [1v1-minesweeper](https://github.com/Hackatoan/1v1-minesweeper) | Next.js · Docker | Real-time competitive minesweeper |
-| [sys32roulette](https://github.com/Hackatoan/sys32roulette) | JS · Docker | Competitive 1v1 minigame battler — lose and face system annihilation (jk) |
-| [battleship](https://github.com/Hackatoan/battleship) | JS · Docker | Multiplayer Battleship with AI opponent |
-| [tic-tac-toe-online](https://github.com/Hackatoan/tic-tac-toe-online) | JS · Docker | Real-time online tic-tac-toe |
-| [cah](https://github.com/Hackatoan/cah) | Node.js · Socket.io | Cards Against Hackatoa — multiplayer browser card game |
+| [infinisweeper](https://github.com/Hackatoan/infinisweeper) | JS · Firebase | Infinite minesweeper with a global leaderboard · [infinisweeper.hackatoa.com](https://infinisweeper.hackatoa.com) |
+| [1v1-minesweeper](https://github.com/Hackatoan/1v1-minesweeper) | Next.js · Docker | Real-time competitive minesweeper · [1v1sw.hackatoa.com](https://1v1sw.hackatoa.com) |
+| [sys32roulette](https://github.com/Hackatoan/sys32roulette) | JS · Docker | Competitive 1v1 minigame battler — lose and face system annihilation (jk) · [sys32.hackatoa.com](https://sys32.hackatoa.com) |
+| [battleship](https://github.com/Hackatoan/battleship) | JS · Docker | Multiplayer Battleship with AI opponent · [battleship.hackatoa.com](https://battleship.hackatoa.com) |
+| [tic-tac-toe-online](https://github.com/Hackatoan/tic-tac-toe-online) | JS · Docker | Real-time online tic-tac-toe · [ttt.hackatoa.com](https://ttt.hackatoa.com) |
+| [cah](https://github.com/Hackatoan/cah) | Node.js · Socket.io | Cards Against Hackatoa — multiplayer browser card game · [cah.hackatoa.com](https://cah.hackatoa.com) |
 
 ## 🌐 Web & Extensions
 
@@ -52,12 +52,12 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 
 ## 🏠 Homelab
 
-Running on bare metal + Proxmox — 20+ self-hosted services:
+Running on a 3-node Proxmox cluster — 30+ self-hosted services behind an NPMplus reverse proxy with automated TLS:
 
-- **Docker host** — Portainer, NPMplus reverse proxy, Stalwart mail, Nextcloud + Talk, Watchtower auto-deploy
-- **DNS** — Pi-hole
-- **Matrix** — self-hosted Synapse homeserver at `matrix.hackatoa.com`
-- **Games & apps** — self-hosted at `games.hackatoa.com` and `nucleus.hackatoa.com`
+- **Infra** — NPMplus reverse proxy, Pi-hole DNS, Watchtower auto-deploy, and a custom live control dashboard for the whole stack
+- **Comms & cloud** — Stalwart mail, Nextcloud + Talk, self-hosted Matrix (Synapse + Element)
+- **Media** — Music Assistant multi-room audio, Invidious
+- **Games & apps** — self-hosted at [games.hackatoa.com](https://games.hackatoa.com) and [nucleus.hackatoa.com](https://nucleus.hackatoa.com)
 
 ## Find me
 
