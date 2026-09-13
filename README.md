@@ -18,6 +18,9 @@ I build full-stack web apps, browser games, homelab automation, and Matrix/Disco
 | Project | Stack | Description |
 |---|---|---|
 | [clip-forge](https://github.com/Hackatoan/clip-forge) | React · Vite · WebCodecs · Docker | Browser video editor — trim, cut, overlay, all processed locally with no uploads · [clip-forge.hackatoa.com](https://clip-forge.hackatoa.com) |
+| [mosaic](https://github.com/Hackatoan/mosaic) | Next.js · Docker | Photomosaic generator — rebuild any image out of hundreds of tiled photos, upload your own or pull a topic · [mosaic.hackatoa.com](https://mosaic.hackatoa.com) |
+| [movietimelines](https://github.com/Hackatoan/movietimelines) | HTML · JSON | Track film & TV franchises in in-universe watch order — episode checklists and watch-time tallies · [timelines.hackatoa.com](https://timelines.hackatoa.com) |
+| [music-organizer](https://github.com/Hackatoan/music-organizer) | Python · LLM | Auto-sorts a Tidal playlist into genre / subgenre / activity playlists using an LLM |
 
 ## 🎮 Browser Games
 
@@ -49,6 +52,20 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 | [balthazar](https://github.com/Hackatoan/balthazar) | Node · Whisper · WebRTC | Discord voice bot — streams audio to the browser, transcribes speech with Whisper, and captures 30-second clips on command or voice trigger |
 | [matrix-cms-bot](https://github.com/Hackatoan/matrix-cms-bot) | Python | Matrix bot for publishing blog posts and mycology photos via DM |
 | [matrix-autoroom](https://github.com/Hackatoan/matrix-autoroom) | Python | AutoRoom bot for Matrix — creates temp rooms on demand, removes them when empty |
+
+## ⛏️ Minecraft
+
+| Project | Stack | Description |
+|---|---|---|
+| [swordblock](https://github.com/Hackatoan/swordblock) | Fabric mod | Cosmetic client mod — hides shields and shows a blocking arm pose when right-clicking with a sword |
+| [mob-highlighter](https://github.com/Hackatoan/mob-highlighter) | Fabric mod | Client-side see-through-walls glow-box highlight for nearby mobs of a chosen type |
+| [ProtectedDebugStick](https://github.com/Hackatoan/ProtectedDebugStick) | Bukkit/Paper plugin | A legit debug stick for survival servers |
+
+## 🛠️ Templates
+
+| Project | Stack | Description |
+|---|---|---|
+| [docker-app-template](https://github.com/Hackatoan/docker-app-template) | Next.js · Docker · GH Actions | Starter template with auto-deploy via GitHub Actions + Watchtower |
 
 ## 🏠 Homelab
 
