@@ -41,7 +41,7 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 |---|---|---|
 | [hackatoa.com](https://github.com/Hackatoan/hackatoa.com) | HTML · Three.js · Firebase | Personal portfolio and website |
 | [games-hub](https://github.com/Hackatoan/games-hub) | HTML · Docker | Landing page hub linking all hosted games |
-| [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension · WebRTC | Discord-style messaging for Canvas LMS — DMs, group chats, class channels |
+| [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension · WebRTC | Discord-style messaging for Canvas LMS — DMs, group chats, class channels · [cm.hackatoa.com](https://cm.hackatoa.com) |
 
 ## 🤖 Bots & AI
 
