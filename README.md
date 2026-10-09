@@ -12,6 +12,7 @@ I build full-stack web apps, browser games, homelab automation, and Matrix/Disco
 | Project | Stack | Description |
 |---|---|---|
 | **P&N — Protons & Neutrons** | TypeScript · Fastify · Postgres/PostGIS · Capacitor · Stripe | Dating app for verified humans — Stripe Identity ID checks, PostGIS location matching, real-time chat with read receipts & media messages, bot/AI-photo defense, push notifications, and native mobile builds · [nucleus.hackatoa.com](https://nucleus.hackatoa.com) |
+| **Marginalia** | Firebase · Gemini · PWA | Book scanning & highlighting with AI insight — capture pages by camera or PDF, edit highlights, ask questions, read aloud, export · [marginalia.hackatoa.com](https://marginalia.hackatoa.com) |
 
 ## 🛠️ Tools
 
@@ -21,6 +22,7 @@ I build full-stack web apps, browser games, homelab automation, and Matrix/Disco
 | [mosaic](https://github.com/Hackatoan/mosaic) | Next.js · Docker | Photomosaic generator — rebuild any image out of hundreds of tiled photos, upload your own or pull a topic · [mosaic.hackatoa.com](https://mosaic.hackatoa.com) |
 | [movietimelines](https://github.com/Hackatoan/movietimelines) | HTML · JSON | Track film & TV franchises in in-universe watch order — episode checklists and watch-time tallies · [timelines.hackatoa.com](https://timelines.hackatoa.com) |
 | [music-organizer](https://github.com/Hackatoan/music-organizer) | Python · LLM | Auto-sorts a Tidal playlist into genre / subgenre / activity playlists using an LLM |
+| [vencord-auto-compress-video](https://github.com/Hackatoan/vencord-auto-compress-video) | TypeScript · Vencord · ffmpeg | Vesktop/Vencord plugin — compresses videos to fit Discord's upload limit (GPU-accelerated) and splits long clips into auto-sent parts |
 
 ## 🎮 Browser Games
 
@@ -34,6 +36,7 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 | [battleship](https://github.com/Hackatoan/battleship) | JS · Docker | Multiplayer Battleship with AI opponent · [battleship.hackatoa.com](https://battleship.hackatoa.com) |
 | [tic-tac-toe-online](https://github.com/Hackatoan/tic-tac-toe-online) | JS · Docker | Real-time online tic-tac-toe · [ttt.hackatoa.com](https://ttt.hackatoa.com) |
 | [cah](https://github.com/Hackatoan/cah) | Node.js · Socket.io | Cards Against Hackatoa — multiplayer browser card game · [cah.hackatoa.com](https://cah.hackatoa.com) |
+| [game-leaderboard](https://github.com/Hackatoan/game-leaderboard) | JS | Shared nickname leaderboard SDK for the games — anti-cheat and profanity filter |
 
 ## 🌐 Web & Extensions
 
@@ -42,6 +45,9 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 | [hackatoa.com](https://github.com/Hackatoan/hackatoa.com) | HTML · Three.js · Firebase | Personal portfolio and website |
 | [games-hub](https://github.com/Hackatoan/games-hub) | HTML · Docker | Landing page hub linking all hosted games |
 | [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension · WebRTC | Discord-style messaging for Canvas LMS — DMs, group chats, class channels · [cm.hackatoa.com](https://cm.hackatoa.com) |
+| [cm-relay](https://github.com/Hackatoan/cm-relay) | Node.js · WebSocket | Canvas Messenger relay server |
+| [cm-signaling](https://github.com/Hackatoan/cm-signaling) | Node.js · Socket.io · WebRTC | Canvas Messenger WebRTC signaling server |
+| [status](https://github.com/Hackatoan/status) | opsmon | Public status page for hackatoa.com services |
 
 ## 🤖 Bots & AI
 
@@ -49,6 +55,8 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 |---|---|---|
 | [wikiroll](https://github.com/Hackatoan/wikiroll) | discord.js · SQLite · Docker | Discord character collection bot — roll, claim, and trade characters from Wikipedia and 150+ Fandom wikis · [wikiroll.hackatoa.com](https://wikiroll.hackatoa.com) |
 | [Lamar](https://github.com/Hackatoan/Lamar) | discord.js · Gemini AI · Docker | Discord bot — Lamar Davis from GTA V, AI-powered with persistent memory · [lamar.hackatoa.com](https://lamar.hackatoa.com) |
+| [lamar-web](https://github.com/Hackatoan/lamar-web) | HTML · GitHub Pages | Landing site for the Lamar bot · [lamar.hackatoa.com](https://lamar.hackatoa.com) |
+| [lamarlive](https://github.com/Hackatoan/lamarlive) | HTML · nginx | Gallery of sites built by Lamar's Discord `/build` command · [lamarlive.hackatoa.com](https://lamarlive.hackatoa.com) |
 | [balthazar](https://github.com/Hackatoan/balthazar) | Node · Whisper · WebRTC | Discord voice bot — streams audio to the browser, transcribes speech with Whisper, and captures 30-second clips on command or voice trigger |
 | [matrix-cms-bot](https://github.com/Hackatoan/matrix-cms-bot) | Python | Matrix bot for publishing blog posts and mycology photos via DM |
 | [matrix-autoroom](https://github.com/Hackatoan/matrix-autoroom) | Python | AutoRoom bot for Matrix — creates temp rooms on demand, removes them when empty |
