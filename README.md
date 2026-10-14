@@ -30,6 +30,7 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 
 | Project | Stack | Description |
 |---|---|---|
+| [lucky-chips-casino](https://github.com/Hackatoan/lucky-chips-casino) | Node · SQLite · Firebase Auth | Play-money casino — 26 games, strategy coach, card-counting trainer, shared tables and bots · [casino.hackatoa.com](https://casino.hackatoa.com) |
 | [infinisweeper](https://github.com/Hackatoan/infinisweeper) | JS · Firebase | Infinite minesweeper with a global leaderboard · [infinisweeper.hackatoa.com](https://infinisweeper.hackatoa.com) |
 | [1v1-minesweeper](https://github.com/Hackatoan/1v1-minesweeper) | Next.js · Docker | Real-time competitive minesweeper · [1v1sw.hackatoa.com](https://1v1sw.hackatoa.com) |
 | [sys32roulette](https://github.com/Hackatoan/sys32roulette) | JS · Docker | Competitive 1v1 minigame battler — lose and face system annihilation (jk) · [sys32.hackatoa.com](https://sys32.hackatoa.com) |
