@@ -69,6 +69,9 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 | [swordblock](https://github.com/Hackatoan/swordblock) | Fabric mod | Cosmetic client mod — hides shields and shows a blocking arm pose when right-clicking with a sword |
 | [mob-highlighter](https://github.com/Hackatoan/mob-highlighter) | Fabric mod | Client-side see-through-walls glow-box highlight for nearby mobs of a chosen type |
 | [ProtectedDebugStick](https://github.com/Hackatoan/ProtectedDebugStick) | Bukkit/Paper plugin | A legit debug stick for survival servers |
+| [claimsafe](https://github.com/Hackatoan/claimsafe) | Paper/Purpur plugin | Keeps ClearLaggEnhanced from clearing items and mobs inside GriefPrevention claims |
+| [notooexpensive](https://github.com/Hackatoan/notooexpensive) | Paper/Purpur plugin | Removes the anvil "Too Expensive!" 40-level cap |
+| [mc-resourcepack](https://github.com/Hackatoan/mc-resourcepack) | Resource pack | Merged server resource pack — Sparkles + MyFurniture default furniture |
 
 ## 🛠️ Templates
 
@@ -87,4 +90,4 @@ Running on a 3-node Proxmox cluster — 30+ self-hosted services behind an NPMpl
 
 ## Find me
 
-[hackatoa.com](https://hackatoa.com) · [Twitch](https://www.twitch.tv/hackatoa) · [YouTube](https://www.youtube.com/@Hackatoa) · [Buy Me A Coffee](https://buymeacoffee.com/hackatoa)
+[hackatoa.com](https://hackatoa.com) · [Twitch](https://www.twitch.tv/hackatoa) · [Kick](https://kick.com/hackatoa) · [YouTube](https://www.youtube.com/@Hackatoa) · [Buy Me A Coffee](https://buymeacoffee.com/hackatoa)
