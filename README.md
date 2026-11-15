@@ -50,7 +50,7 @@ Games live at [games.hackatoa.com](https://games.hackatoa.com) — self-hosted o
 | [canvas-messenger](https://github.com/Hackatoan/canvas-messenger) | Chrome/Firefox Extension · WebRTC | Discord-style messaging for Canvas LMS — DMs, group chats, class channels · [cm.hackatoa.com](https://cm.hackatoa.com) |
 | [cm-relay](https://github.com/Hackatoan/cm-relay) | Node.js · WebSocket | Canvas Messenger relay server |
 | [cm-signaling](https://github.com/Hackatoan/cm-signaling) | Node.js · Socket.io · WebRTC | Canvas Messenger WebRTC signaling server |
-| [status](https://github.com/Hackatoan/status) | opsmon | Public status page for hackatoa.com services |
+| [status](https://github.com/Hackatoan/status) | opsmon | Public status page for hackatoa.com services · [status.hackatoa.com](https://status.hackatoa.com) |
 
 ## 🤖 Bots & AI
 
