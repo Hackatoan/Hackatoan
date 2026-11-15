@@ -5,6 +5,8 @@ I build full-stack web apps, browser games, homelab automation, and Matrix/Disco
 
 **Website:** [hackatoa.com](https://hackatoa.com) · **Support:** [Buy Me A Coffee](https://buymeacoffee.com/hackatoa)
 
+**Jump to:** [Apps](#-apps) · [Tools](#️-tools) · [Browser Games](#-browser-games) · [Web & Extensions](#-web--extensions) · [Bots & AI](#-bots--ai) · [Minecraft](#️-minecraft) · [Templates](#️-templates) · [Homelab](#-homelab) · [Find me](#find-me)
+
 ---
 
 ## 📱 Apps
